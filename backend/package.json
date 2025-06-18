@@ -1,0 +1,18 @@
+{
+  "name": "youtubequizapi",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --minify",
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings"
+  },
+  "dependencies": {
+    "@supadata/js": "^1.1.1",
+    "dotenv": "^16.5.0",
+    "hono": "^4.7.10",
+    "openai": "^4.103.0",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.4.0"
+  }
+}

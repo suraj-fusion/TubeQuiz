@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "TubeQuiz",
+  "version": "1.0",
+  "description": "Test your knowledge on YouTube videos with auto-generated MCQs.",
+  "icons": {
+    "16": "TubeQuiz16.png",
+    "32": "TubeQuiz32.png",
+    "48": "TubeQuiz48.png",
+    "128": "TubeQuiz128.png"
+  },
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Tube Quiz"
+  }
+}

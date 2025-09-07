@@ -1,4 +1,4 @@
-# 🎓 YouTube MCQ Quiz Extension  
+# 🎓TubeQuiz - A YouTube MCQ Quiz Extension  
 
 **Test your knowledge on YouTube videos with auto-generated MCQs.**  
 
